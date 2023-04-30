@@ -21,4 +21,3 @@ def random_phrase(list1, list2):
 if __name__ == '__main__':
     pass
     # print(random_phrase(adjectives, nouns))
- 
