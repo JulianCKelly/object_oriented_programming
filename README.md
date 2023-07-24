@@ -1,7 +1,7 @@
 # Cars and Money
 The aim of this repository is to showcase my ability to build and instantiate both classes and functions.
 
-## Bloomtechdata
+## Bloomdata
 This folder contains both the vehicle.py and wallet.py files.
 
 ## Vehicle.py
